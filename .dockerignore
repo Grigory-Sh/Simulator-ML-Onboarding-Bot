@@ -1,0 +1,38 @@
+# git
+.git*
+.gitignore
+.gitlab-ci.yml
+
+# md
+README.md
+
+# configs
+*.json
+
+# folders
+datasets/
+notebooks/*
+models/
+images/
+
+# binary files
+__pycache__
+*.DS_Store
+
+# IDE
+.vscode
+.idea
+
+# temp files
+notebooks/*
+*.bundle
+*.egg-info/
+*.pyc
+*.whl
+__MACOSX/
+
+# venv
+.venv/
+
+# OS
+*.icloud
